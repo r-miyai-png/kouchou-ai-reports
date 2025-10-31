@@ -1,0 +1,6 @@
+{
+  "config": { "question": "サンプルの設問です" },
+  "overview": "これはサンプルの概要です（静的JSON）。",
+  "analysis": [],
+  "report": []
+}
